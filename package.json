@@ -1,0 +1,11 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "an app that does things",
+  "main": "(index.js)",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Walter Sias",
+  "license": "ISC"
+}
